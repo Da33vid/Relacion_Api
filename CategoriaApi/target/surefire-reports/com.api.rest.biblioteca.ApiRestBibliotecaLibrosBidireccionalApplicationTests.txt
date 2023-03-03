@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.api.rest.biblioteca.ApiRestBibliotecaLibrosBidireccionalApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.799 s <<< FAILURE! - in com.api.rest.biblioteca.ApiRestBibliotecaLibrosBidireccionalApplicationTests
+com.api.rest.biblioteca.ApiRestBibliotecaLibrosBidireccionalApplicationTests  Time elapsed: 0.797 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

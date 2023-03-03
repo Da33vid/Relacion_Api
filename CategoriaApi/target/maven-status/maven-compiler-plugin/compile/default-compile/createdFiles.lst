@@ -1,0 +1,7 @@
+com\api\rest\categoria\controladores\CategoriaController.class
+com\api\rest\categoria\repositorios\CategoriaRepository.class
+com\api\rest\categoria\ApiRestCategoria.class
+com\api\rest\categoria\repositorios\ProductoRepository.class
+com\api\rest\categoria\controladores\ProductoController.class
+com\api\rest\categoria\entidades\Categoria.class
+com\api\rest\categoria\entidades\Producto.class
